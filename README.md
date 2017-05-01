@@ -5,7 +5,7 @@ This module enable hidden features on the native FM Radio app of Yotaphone 2.
 The module has only been tested on Android 6 firmware.
 
 ## Usage
-Install the APK and enable the module in Xposed Installer (restart is needed).
+Install [the APK](../../releases/latest "download latest release") and enable the module in Xposed Installer (restart is needed).
 No GUI is present for this module.
 
 ## Features
